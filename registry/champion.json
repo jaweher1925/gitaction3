@@ -1,0 +1,8 @@
+{
+    "model_name": "Random Forest Classifier",
+    "model_path": "outputs/model.pkl",
+    "metrics_path": "outputs/metrics.json",
+    "accuracy": 0.9386,
+    "f1_score": 0.951,
+    "status": "champion"
+}
